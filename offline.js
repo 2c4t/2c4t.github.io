@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1622181407,
+	"version": 1622201120,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,8 @@
 		"media/pipeu.png",
 		"media/tiledbackground.png",
 		"media/sus-sheet0.png",
+		"media/btn-sheet0.png",
+		"media/font.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
